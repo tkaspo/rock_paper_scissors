@@ -1,0 +1,60 @@
+/*https://bit.ly/2mFeQeA*/
+
+
+#hero {
+  padding-top: 170px;
+  padding-bottom: 170px;
+  background-color: #5e0231;
+  font-size: 57px;
+  font-family: sans-serif;
+  color: #dbc3d0;
+  text-align: center;
+}
+
+#rock {
+  float:left;
+  width: 30%;
+  font-size: 20px;
+  font-family: sans-serif;
+  padding: 10px;
+  margin: 5px;
+}
+
+#paper {
+  float:left;
+  width: 30%;
+  font-size: 20px;
+  font-family: sans-serif;
+  padding: 10px;
+  margin: 5px;
+}
+
+#scissors {
+  float:left;
+  width: 30%;
+  font-size: 20px;
+  font-family: sans-serif;
+  padding: 10px;
+  margin: 5px;
+}
+
+#scoreboard {
+  float: right;
+  padding: 10px;
+  margin: 10px;
+}
+
+button {
+    background-color: #5e0231;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+p {
+  font-family: sans-serif;
+}
